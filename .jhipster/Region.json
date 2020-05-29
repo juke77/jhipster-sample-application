@@ -1,0 +1,25 @@
+{
+  "name": "Region",
+  "fields": [
+    {
+      "fieldName": "tentantId",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "regionName",
+      "fieldType": "String"
+    }
+  ],
+  "relationships": [],
+  "changelogDate": "20200529110004",
+  "entityTableName": "region",
+  "dto": "no",
+  "pagination": "no",
+  "service": "serviceImpl",
+  "jpaMetamodelFiltering": false,
+  "fluentMethods": true,
+  "readOnly": false,
+  "embedded": false,
+  "clientRootFolder": "",
+  "applications": "*"
+}
